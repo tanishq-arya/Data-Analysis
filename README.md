@@ -1,6 +1,8 @@
-# Data_Science
+# Data Science Projects
 ### This repository contains projects I am using to learn data science using python.
 
-# Prerequisites
-1. Python programming language basic concepts and data structures. 
-2. Python Libraries - Numpy, Pandas
+# Libraries
+1. Numpy  
+2. Pandas
+3. Matplotlib
+4. Seaborn
