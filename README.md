@@ -1,4 +1,3 @@
-# Data Science Projects
 ### This repository contains projects I am using to learn data science using python.
 
 # Libraries
